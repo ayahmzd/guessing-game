@@ -4,7 +4,7 @@ A Bash program that asks you to guess how many files are in the current director
 
 ## Project information
 
-- Date and time generated: Sun, Nov 15, 2026  5:29:05 PM
+- Date and time generated: Sun, Nov 15, 2026  5:31:30 PM
 - Lines in guessinggame.sh: 36
 
 ## How to run
